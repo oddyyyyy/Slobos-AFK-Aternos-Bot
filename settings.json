@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "FcHOMIESafkBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "homiesarenubs.aternos.me",
+    "port": 61506,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Join FC HOMIES DC Link:discord.gg/VCjknj7kYN",
+        "Join FC HOMIES DC Link:discord.gg/VCjknj7kYN",
+        "Join FC HOMIES DC Link:discord.gg/VCjknj7kYN"
       ]
     },
     "chat-log": true,
@@ -73,12 +73,12 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1508161919888916502/kdswO0j_iunU7_ZirGyeWkDFGuoljsdDiio0KEwoIjmyek_YlEVXYUkZT4rkIez1E7pT",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
